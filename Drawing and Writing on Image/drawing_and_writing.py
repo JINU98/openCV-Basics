@@ -16,4 +16,4 @@ cv2.putText(img,'Midoriya',(0,430),font,1,(200,255,255),2,cv2.LINE_AA)
 
 cv2.imshow('image',img)
 cv2.waitKey(0)
-cv2.destroyALLWindows()
+cv2.destroyAllWindows()
